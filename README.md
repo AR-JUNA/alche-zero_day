@@ -1,20 +1,2 @@
 Root README
-This update was made from Github.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Update README.md from Github
+Updated from Github for collaboration test
